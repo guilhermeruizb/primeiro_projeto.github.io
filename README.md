@@ -1,2 +1,2 @@
-# http://primeiro_projeto.github.io/aula_23_primeiro_projeto.html
+# http://primeiro_projeto.github.io
 Meu Projeto 01
