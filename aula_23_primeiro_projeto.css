@@ -1,0 +1,133 @@
+*{
+	font-family: Arial;
+}
+body{
+	margin: 0;
+	padding: 0;
+}
+
+.topbar{
+	background-color: #353535;
+	height: 50px;
+}
+
+.topinterior{
+	width: 1000px;
+	margin: auto;
+	color: #FFFFFF;
+}
+
+.logomarca{
+	float: left;
+	font-size: 24px;
+	line-height: 50px;
+}
+
+.logomarca{
+	margin-left: 55px;
+}
+
+.menu{
+	float: right;
+	font-size: 20px;
+	line-height: 50px;
+}
+
+.menu ul,
+.menu li{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.menu li{
+	float: left;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-size: 14px;
+}
+
+.menu li:hover{
+	background-color: #1E90FF; /*vai ser a mesma cor para o banner principal*/
+	color: #000000;
+	font-weight: bold;
+}
+
+.banner{
+	background-color: #1E90FF;
+	height: 300px;
+}
+
+.bannerinterior{
+	width: 1000px;
+	margin: auto;
+}
+
+.banneresquerda{
+	float: left;
+}
+
+.banneresquerda{
+	margin-left: 55px;
+}
+
+.bannerdireita{
+	float: right;
+}
+
+.bannerdireita{
+	margin-right: 55px;
+}
+
+.frase1{
+	font-size: 48px;
+	margin-top: 60px;
+	color: #ffffff;
+}
+
+.frase2{
+	font-size: 20px;
+	color: #ffffff;
+}
+
+.botao{
+	width: 282px;
+	height: 56px;
+	border-radius: 10px;
+	background-color: #ffc001;
+	color: #000000;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
+	line-height: 56px;
+	margin-top: 20px;
+	cursor: pointer;
+}
+
+.conteudointerno{
+	width: 1000px;
+	margin: auto;
+}
+
+.textoimagens{
+	color: #000000;
+	font-size: 20px;
+	height: 90px;
+	text-align: center;
+	line-height: 90px;
+}
+
+.fotos img{
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.rodape{
+	margin-top: 40px;
+	height: 50px;
+	background-color: #347aba;
+	text-align: center;
+	line-height: 50px;
+	color: #FFFFFF;
+	font-weight: bold;
+}
