@@ -1,2 +1,1 @@
-# http://primeiro_projeto.github.io
-Meu Projeto 01
+Meu primeiro Projeto em HTML e CSS
